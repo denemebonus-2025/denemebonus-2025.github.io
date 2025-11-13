@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://denemebonus-2025.github.io/sitemap.xml
